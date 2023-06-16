@@ -1,1 +1,1 @@
-addSbtPlugin("org.lyranthe.fs2-grpc" % "sbt-java-gen" % "0.3.0")
+addSbtPlugin("org.typelevel" % "sbt-fs2-grpc" % "2.7.1")
